@@ -24,9 +24,9 @@
         }
     ],
     "support": {
-        "source": "https://github.com/Austinb/GameQ/v3",
+        "source": "https://github.com/boyfromhell/laravel-gameq/tree/main",
         "issues": "https://github.com/Austinb/GameQ/issues",
-        "wiki": "https://github.com/Austinb/GameQ/wiki"
+        "wiki": "https://github.com/boyfromhell/laravel-gameq/wiki"
     },
     "require": {
         "php": "^7.3|^8.0",
