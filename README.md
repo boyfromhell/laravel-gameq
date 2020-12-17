@@ -1,6 +1,5 @@
 # Laravel GameQ Version 1
 [![Latest Version on Packagist](https://img.shields.io/packagist/v/ichbin/gameq.svg?style=flat-square)](https://packagist.org/packages/ichbin/gameq)
-[![Build Status](https://img.shields.io/travis/ichbin/gameq/master.svg?style=flat-square)](https://travis-ci.com/ichbin/gameq)
 [![Scrutinizer Code Quality](https://scrutinizer-ci.com/g/boyfromhell/laravel-gameq/badges/quality-score.png?b=main)](https://scrutinizer-ci.com/g/boyfromhell/laravel-gameq/?branch=main)
 [![Build Status](https://scrutinizer-ci.com/g/boyfromhell/laravel-gameq/badges/build.png?b=main)](https://scrutinizer-ci.com/g/boyfromhell/laravel-gameq/build-status/main)
 [![Total Downloads](https://img.shields.io/packagist/dt/ichbin/gameq.svg?style=flat-square)](https://packagist.org/packages/ichbin/gameq)
