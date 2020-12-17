@@ -20,7 +20,7 @@ public function info($type, $ip, $port)
             $var['players'],
         );
         $var['ip'] = $ip;
-        return ([
+        return array([
             'id' => $id,
             'var' => $var,
             'players' => $players,
